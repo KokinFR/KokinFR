@@ -30,6 +30,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AGpR3V7Vrdn_i_PagIALbg.png" heigth="30" alt="bigquery logo" />
+    <img width="12"/>
 </div>
 
 <div align="center">
