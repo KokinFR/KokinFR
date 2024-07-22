@@ -23,6 +23,8 @@
   <h2 align="center">Tecnologia: </h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
     <img width="12" />
+    <img src="https://raw.githubusercontent.com/github/explore/2faafc60c6d169dc5e1fb7bd955916d4e650c51d/topics/bigquery/bigquery.png" height="30" alt="bigquery logo"  />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
