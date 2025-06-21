@@ -1,6 +1,8 @@
 ## <h2 align="center">Hello! My name is Francisco Rafael! </h2>
- - 👨🏽‍🎓 Ciência da Computação 4/8
+ - 👨🏽‍🎓 Ciência da Computação 5/8
  - 📈 Banco de Dados
+ - ![image](https://github.com/user-attachments/assets/d799586c-864c-493a-9db1-41593a0a2056) Analista de Dados
+ - ![image](https://github.com/user-attachments/assets/1f207812-0a3e-4706-8a3f-1077598598de) Design 
  - 📧 Contato-me no email: franciscorafaelzero78@gmail.com
 
 <h2 align="left">Stats</h2>
