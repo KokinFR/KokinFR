@@ -5,133 +5,111 @@ Computer Science Student • Full Stack Developer • Data Analyst • UI/UX Des
 </h3>
 
 <p align="center">
-
-<a href="mailto:franciscorafaelzero78@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/KokinFR">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Analyst-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Computer Science Student (7/8)
 
 💻 Full Stack Developer
 
-📊 Data Analyst
+📊 Passionate about Data Analysis
 
 🎨 UI/UX Designer
 
 🗄️ Database Enthusiast
 
-🌱 Currently studying
+📚 Currently studying:
 
 - Software Architecture
 - Clean Code
-- Microservices
+- Next.js
+- Spring Boot
+- Django REST
 - Data Engineering
 - Machine Learning
 - Cloud Computing
 
 🎯 Career Goal
 
-Become a Software Engineer focused on scalable systems, data analysis and software architecture.
+Build scalable software, modern web applications, and data-driven solutions.
 
 ---
 
-# 🚀 Main Technologies
+# 🚀 Tech Stack
 
-## Programming Languages
+### Programming Languages
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart"/>
-
 </p>
 
-## Front-end
+### Front-end
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 </p>
 
-## Back-end
+### Back-end
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,django,flask"/>
-
 </p>
 
-## Databases
+### Databases
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
 </p>
 
-## Design
+### Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma,canva"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,figma"/>
 </p>
 
 ---
 
-# 💼 Areas of Interest
+# 💼 Areas of Expertise
 
-- Software Engineering
-- Full Stack Development
-- Data Analysis
-- Artificial Intelligence
-- UI/UX Design
-- Database Modeling
-- REST APIs
-- Microservices
-- Cloud Computing
+- 💻 Full Stack Development
+- 📈 Data Analysis
+- 🏗️ Software Architecture
+- 🔗 REST APIs
+- ⚙️ Microservices
+- 🗄️ Database Modeling
+- 🎨 UI/UX Design
+- ☁️ Cloud Computing
 
 ---
 
 # 🚀 Featured Projects
 
-### 📁 DIGITAM
+## 📄 DIGITAM
 
 Digital document management platform.
 
-**Stack**
+**Technologies**
 
 - Spring Boot
 - PostgreSQL
 - React
+- Docker
 - Vercel
-- Render
 
 ---
 
-### 🏪 MF Digital Storefront
+## 🛒 MF Digital Storefront
 
-Modern storefront built with Next.js.
+Modern storefront with CMS integration.
 
-**Stack**
+**Technologies**
 
 - Next.js
 - TypeScript
@@ -140,81 +118,82 @@ Modern storefront built with Next.js.
 
 ---
 
-### 👥 Technical Teams Microservice
+## 👥 Technical Teams Microservice
 
 Academic microservice project.
 
-**Stack**
+**Technologies**
 
-- Django REST
+- Django REST Framework
 - PostgreSQL
 - Docker
-- JWT
+- JWT Authentication
 
 ---
 
-### 📈 B3 Financial Analysis
+## 📊 B3 Financial Analysis
 
-Academic research focused on company valuation.
+Academic research focused on company valuation using financial statements and market data.
 
-Technologies
+**Technologies**
 
 - Python
 - Pandas
 - Scikit-Learn
-- Yahoo Finance
-- CVM
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KokinFR&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokinFR&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KokinFR&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KokinFR&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
+- Yahoo Finance API
+- CVM Data
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KokinFR&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KokinFR&theme=tokyo-night"/>
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring"/>
+
+<img src="https://img.shields.io/badge/Django_REST-red?style=for-the-badge&logo=django"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 
 </p>
 
 ---
 
-# 📫 Contact
+# 🌎 Connect with Me
 
-📧 **Email**
+<p align="center">
 
-franciscorafaelzero78@gmail.com
+<a href="mailto:franciscorafaelzero78@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KokinFR">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Adicione seu LinkedIn quando tiver -->
+<!--
+<a href="https://linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+-->
+
+</p>
 
 ---
 
 <h3 align="center">
-
-Thanks for visiting my profile!
-
+⭐ Thanks for visiting my profile!
 </h3>
