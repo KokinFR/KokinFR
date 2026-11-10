@@ -15,7 +15,7 @@ Computer Science Student • Full Stack Developer • Data Analyst • UI/UX Des
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Student (7/8)
+🎓 Computer Science Student (8/8)
 
 💻 Full Stack Developer
 
